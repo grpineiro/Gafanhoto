@@ -1,0 +1,10 @@
+Apresentação Eng. Soft.
+
+- Gerenciamento de versões
+
+O que é o Git?
+
+
+Objetivo?
+
+
